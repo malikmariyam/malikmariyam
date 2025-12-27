@@ -41,7 +41,6 @@ I enjoy working across the full AI lifecycle — from **model design and experim
 
 ### 🔹 Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-8B5CF6?style=for-the-badge)
 
 ### 🔹 DevOps & Tools
@@ -58,13 +57,6 @@ I enjoy working across the full AI lifecycle — from **model design and experim
 - Voice-enabled AI assistants
 - Production-grade AI deployment
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikmariyam&show_icons=true&theme=react" />
-</p>
 
 ---
 
